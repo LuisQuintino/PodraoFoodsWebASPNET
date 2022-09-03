@@ -1,0 +1,30 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-color: rgb(52, 32, 72);
+}
+
+.nav {
+    background-color: rgb(52, 32, 72);
+}
+
+div.container-fluid {
+    background-color: rgb(52, 32, 72);
+}
+
+.card {
+    background-color: rgb(52, 32, 72);
+}
